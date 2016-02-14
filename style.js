@@ -11,7 +11,7 @@ $(function() {
     //cache DOM
     var $sliderr = $('#sliderr');
     var $slideeContainer = $sliderr.find('.slidess');
-    var $slidess = $sliderrContainer.find('.slidee');
+    var $slidess = $slideeContainer.find('.slidee');
     
     
     setInterval(function() {
