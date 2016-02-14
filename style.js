@@ -14,7 +14,7 @@ $(function() {
     
     
     setInterval(function() {
-        $slideContainer.animate({'margin-left': '-='+width}, animationSpeed);
+        $slideeContainer.animate({'margin-left': '-='+width}, animationSpeed);
     }, pause);
     
 })
