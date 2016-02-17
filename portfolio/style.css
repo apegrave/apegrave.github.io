@@ -1,0 +1,76 @@
+body {
+
+background-color: #282828;
+
+}
+
+.container_big {
+
+width: 1366px;
+height: 100%;
+
+
+}
+
+.text {
+width: 100%;
+height: 1000px;
+background-color: #f2f2f2;
+
+}
+
+
+.2d {
+
+background-image: url(img/2d_3d.png)
+width: 100%;
+height: 4167px;
+background-color: #f2f2f2;
+
+}
+
+.gogo {
+
+background-image: url(img/gofootball.png)
+width: 100%;
+height: 8980px;
+background-color: #f2f2f2;
+
+}
+
+.watch {
+
+background-image: url(img/watchme.png)
+width: 100%;
+height: 8253px;
+background-color: #f2f2f2;
+
+}
+
+
+.white {
+
+background-image: url(img/white.png)
+width: 100%;
+height: 4611px;
+background-color: #f2f2f2;
+
+}
+
+.skem {
+
+background-image: url(img/skemio.png)
+width: 100%;
+height: 3663px;
+background-color: #f2f2f2;
+
+}
+
+.footer {
+
+
+width: 100%;
+height: 1000px;
+background-color: #0f0f0f;
+
+}
