@@ -1,5 +1,4 @@
 body {
-
 background-color: #282828;
 
 }
@@ -8,30 +7,30 @@ background-color: #282828;
 
 width: 1366px;
 height: 100%;
-
+margin: 0 auto;
 
 }
 
 .text {
 width: 100%;
-height: 1000px;
+height: 500px;
 background-color: #f2f2f2;
 
 }
 
 
-.2d {
+.lol {
 
-background-image: url(img/2d_3d.png)
+background-image: url(img/2d_3d.jpg);
 width: 100%;
-height: 4167px;
+height: 3198px;
 background-color: #f2f2f2;
 
 }
 
 .gogo {
 
-background-image: url(img/gofootball.png)
+background-image: url(img/gofootball.jpg);
 width: 100%;
 height: 8980px;
 background-color: #f2f2f2;
@@ -40,17 +39,27 @@ background-color: #f2f2f2;
 
 .watch {
 
-background-image: url(img/watchme.png)
+background-image: url(img/watchme.jpg);
 width: 100%;
-height: 8253px;
+height: 8469px;
 background-color: #f2f2f2;
+
+}
+
+
+.tablet {
+
+width: 100%;
+padding-left: 40px;
+height: 920px;
+background-color: #262626;
 
 }
 
 
 .white {
 
-background-image: url(img/white.png)
+background-image: url(img/white.jpg);
 width: 100%;
 height: 4611px;
 background-color: #f2f2f2;
@@ -59,7 +68,7 @@ background-color: #f2f2f2;
 
 .skem {
 
-background-image: url(img/skemio.png)
+background-image: url(img/skem.jpg);
 width: 100%;
 height: 3663px;
 background-color: #f2f2f2;
@@ -70,7 +79,20 @@ background-color: #f2f2f2;
 
 
 width: 100%;
-height: 1000px;
+height: 500px;
 background-color: #0f0f0f;
 
+}
+
+
+.phone {
+width: 100%;
+padding-left: 40px;
+padding-top: 3900px;
+}
+
+.skem_video {
+width: 100%;
+padding-left: 40px;
+padding-top: 1100px;
 }
