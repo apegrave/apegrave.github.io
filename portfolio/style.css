@@ -96,3 +96,58 @@ width: 100%;
 padding-left: 40px;
 padding-top: 1100px;
 }
+
+p {
+font-family: Roboto;
+text-align: center
+
+}
+
+.big {
+padding-top: 100px;
+font-size: 48px;
+font-family: Roboto Thin;
+}
+
+.art {
+	padding-top: 20px;
+	font-size: 14px;
+	font-weight: regular;
+
+}
+
+.love {
+	padding-top: 100px;
+	color: #717171;
+	font-weight: bold;
+	text-transform: uppercase;
+	font-size: 12px;
+}
+
+.stuff {
+	margin-top: -15px;
+	font-size: 18px;
+	font-weight: bold;
+	color: #1c1c1c;
+	text-transform: uppercase;
+	white-space: pre;
+}
+
+.links {
+	padding-top: 80px;
+	color: #464646;
+	font-family: Roboto Light;
+	text-transform: uppercase;
+}
+
+.based {
+	color: #9c9c9c;
+	font-family: Roboto Light;
+	font-size: 14px;
+	padding-top: 20px;
+
+}
+
+a {
+	color: #464646;
+}
