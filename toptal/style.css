@@ -1,0 +1,30 @@
+body {
+background-color: #282828;
+
+}
+
+.container_big {
+
+width: 1366px;
+height: 100%;
+margin: 0 auto;
+
+}
+
+.text {
+width: 100%;
+height: auto;
+background-color: #f2f2f2;
+
+}
+
+
+.lol {
+
+background-image: url(img/toptal_crypto.jpg);
+width: 100%;
+height: 3198px;
+background-color: #f2f2f2;
+
+}
+
