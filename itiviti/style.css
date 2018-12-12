@@ -1,0 +1,47 @@
+body {
+background-color: #282828;
+
+}
+
+.container_big {
+
+width: 1200px;
+height: 100%;
+margin: 0 auto;
+background-color: #575757;
+
+}
+
+.text {
+width: 100%;
+height: auto;
+background-color: #f2f2f2;
+
+}
+
+
+.lol {
+
+background-image: url(img/all.png);
+width: 100%;
+height: 2797px;
+background-color: #f2f2f2;
+
+}
+
+.video {
+    width: 100%;
+    height: 494px;
+    background-color: #575757;
+    
+    }
+
+.lolo {
+
+    background-image: url(img/all_end.png);
+    width: 100%;
+    height: 5035px;
+    background-color: #f2f2f2;
+    
+    }
+
