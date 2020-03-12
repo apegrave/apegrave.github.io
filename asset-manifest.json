@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.92e6a6b7.chunk.css",
-    "main.js": "/static/js/main.8be72980.chunk.js",
-    "main.js.map": "/static/js/main.8be72980.chunk.js.map",
+    "main.css": "/static/css/main.a936331f.chunk.css",
+    "main.js": "/static/js/main.e19b4575.chunk.js",
+    "main.js.map": "/static/js/main.e19b4575.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.aaf88d20.js",
     "runtime-main.js.map": "/static/js/runtime-main.aaf88d20.js.map",
     "static/js/2.328251dd.chunk.js": "/static/js/2.328251dd.chunk.js",
     "static/js/2.328251dd.chunk.js.map": "/static/js/2.328251dd.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.a7ef44fef9a579a9296fad6c9eaf1b6d.js": "/precache-manifest.a7ef44fef9a579a9296fad6c9eaf1b6d.js",
+    "precache-manifest.281f2700255c4f77dc5d7c802688e05b.js": "/precache-manifest.281f2700255c4f77dc5d7c802688e05b.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.92e6a6b7.chunk.css.map": "/static/css/main.92e6a6b7.chunk.css.map",
+    "static/css/main.a936331f.chunk.css.map": "/static/css/main.a936331f.chunk.css.map",
     "static/js/2.328251dd.chunk.js.LICENSE.txt": "/static/js/2.328251dd.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/static/media/wispi_pres.f34dcb79.png"
+    "static/media/index.css": "/static/media/wispi_pres.57f1815b.gif"
   },
   "entrypoints": [
     "static/js/runtime-main.aaf88d20.js",
     "static/js/2.328251dd.chunk.js",
-    "static/css/main.92e6a6b7.chunk.css",
-    "static/js/main.8be72980.chunk.js"
+    "static/css/main.a936331f.chunk.css",
+    "static/js/main.e19b4575.chunk.js"
   ]
 }
