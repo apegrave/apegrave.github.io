@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ceba7521.chunk.css",
+    "main.js": "/static/js/main.94116fe5.chunk.js",
+    "main.js.map": "/static/js/main.94116fe5.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.aaf88d20.js",
+    "runtime-main.js.map": "/static/js/runtime-main.aaf88d20.js.map",
+    "static/js/2.a4fe1027.chunk.js": "/static/js/2.a4fe1027.chunk.js",
+    "static/js/2.a4fe1027.chunk.js.map": "/static/js/2.a4fe1027.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.d562a4c2fc289dff60f20026cfc1232a.js": "/precache-manifest.d562a4c2fc289dff60f20026cfc1232a.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.ceba7521.chunk.css.map": "/static/css/main.ceba7521.chunk.css.map",
+    "static/js/2.a4fe1027.chunk.js.LICENSE.txt": "/static/js/2.a4fe1027.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/wispi_pres.57f1815b.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aaf88d20.js",
+    "static/js/2.a4fe1027.chunk.js",
+    "static/css/main.ceba7521.chunk.css",
+    "static/js/main.94116fe5.chunk.js"
+  ]
+}
